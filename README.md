@@ -41,6 +41,7 @@ Python automation for a music school client — monthly scraping of Google revie
 
 - [Claude 101 — Anthropic, 2026](https://verify.skilljar.com/c/834fk3a6f227)
 - [AI Fluency: Framework & Foundations — Anthropic, 2026](https://verify.skilljar.com/c/ewj28z3jkvap)
+- Power BI Fundamentals, 2026: https://www.coursera.org/account/accomplishments/certificate/BPYE98DNPF7T
 - [Python for Data Science — IBM, 2024](https://www.credly.com/users/feliks-selitrin/badges#credly)
 - [Data Analysis with Python — IBM, 2024](https://courses.skillsbuild.skillsnetwork.site/certificates/5b6984484cae4b889902ac2c584ce0ce)
 
