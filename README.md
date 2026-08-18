@@ -17,7 +17,7 @@ My background is in international trade and logistics — I spent 20 years manag
 - Budibase — internal business applications (inventory, logistics, dashboards)
 
 **Analytics**
-- Google Sheets, Looker Studio, MySQL
+- Google Sheets, Looker Studio, MySQL, Power BI
 
 **AI Tools**
 - Claude (Anthropic), ChatGPT — I use these daily for writing code, SQL queries, and debugging
