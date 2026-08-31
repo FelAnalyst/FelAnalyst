@@ -37,6 +37,7 @@ Internal logistics app built with Budibase + PostgreSQL — 3PL operations, ship
 
 ### [music_school_backend](https://github.com/FelAnalyst/music_school_backend)
 Python automation for a music school client — monthly scraping of Google reviews and competitor prices, automated HTML email reports.
+
 ---
 
 ## 📜 Certificates
