@@ -35,7 +35,7 @@ Internal logistics app built with Budibase + PostgreSQL — 3PL operations, ship
 ### [music_school_backend](https://github.com/FelAnalyst/music_school_backend)
 Python automation for a music school client — monthly scraping of Google reviews and competitor prices, automated HTML email reports.
 
-### [furniture-bi-dashboard](https://github.com/FelAnalyst/furniture-bi-dashboard))  
+### [furniture-bi-dashboard](https://github.com/FelAnalyst/furniture-bi-dashboard)
 A multi-page interactive BI dashboard for a furniture company that brings sales, inventory, and operational analytics together into a single system for management decision-making.
 
 ---
