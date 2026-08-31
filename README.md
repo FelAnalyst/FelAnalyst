@@ -1,8 +1,11 @@
 # Hi, I'm Feliks 👋
 
-I'm a **Data Analyst & Developer** based in Ukraine, working remotely for a US-based e-commerce company (Amazon).
+I'm a **Data Analyst & Developer** based in Ukraine.
 
-My background is in international trade and logistics — I spent 20 years managing supply chains across China, Malaysia, and Europe. Since 2024 I've been building automation and analytics systems as part of a development team.
+1. Worked remotely for a US-based e-commerce company (Amazon).
+2. Freelancer.
+
+My background is in international trade and logistics — I spent 20 years managing supply chains across China, Malaysia, and Europe. Since 2024 I've been building automation and analytics systems as part of a development team and as a freelancer.
 
 ---
 
