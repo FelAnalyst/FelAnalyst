@@ -32,17 +32,17 @@ My background is in international trade and logistics — I spent 20 years manag
 ### [furniture-bi-dashboard](https://github.com/FelAnalyst/furniture-bi-dashboard)
 A multi-page interactive BI dashboard for a furniture company that brings sales, inventory, and operational analytics together into a single system for management decision-making.
 
-### [music_school_backend](https://github.com/FelAnalyst/music-school-bi-dashboard)
+### [music-school-bi-dashboard](https://github.com/FelAnalyst/music-school-bi-dashboard)
 A two-page interactive BI dashboard for a private music school's management reporting: financial performance, teacher workload, and per-student balance tracking.
+
+### [music_school_backend](https://github.com/FelAnalyst/music_school_backend)
+Python automation for a music school client — monthly scraping of Google reviews and competitor prices, automated HTML email reports.
 
 ### [n8n-amazon-automation](https://github.com/FelAnalyst/n8n-amazon-automation)
 N8N workflows for Amazon SP-API integration — automated report generation, data ingestion into PostgreSQL, error handling.
 
 ### [budibase-logistics-app](https://github.com/FelAnalyst/budibase-logistics-app)
 Internal logistics app built with Budibase + PostgreSQL — 3PL operations, shipment tracking with change log, PPC dashboards.
-
-### [music_school_backend](https://github.com/FelAnalyst/music_school_backend)
-Python automation for a music school client — monthly scraping of Google reviews and competitor prices, automated HTML email reports.
 
 ---
 
